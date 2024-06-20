@@ -1,0 +1,10 @@
+Project on Quant Research 
+
+The Google Drive link contains 1 month of 1m OHLC candlestick data and Aggregated Trades data for BTC/USDT for the month of November.The Aggregate Trades dataset is pretty big(>2 million rows) so you may face some processing difficulties depending on your PC specs so would recommend to use polars instead of pandas. 
+The task requires some(at least 2) or all of the following: 
+● Machine Learning Applications: Build and train machine learning models to predict price movements, identify market anomalies, or generate trading signals. 
+● High-Frequency Trading: Analyze the feasibility and potential profitability of 
+high-frequency trading strategies based on aggregated trades data. 
+● Trend Analysis: Identify and analyze trends in price, volume, and 
+volatility using moving averages, Bollinger Bands, or Relative Strength 
+Index (RSI). 
